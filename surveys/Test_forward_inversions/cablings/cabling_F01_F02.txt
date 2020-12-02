@@ -1,0 +1,13 @@
+﻿# connections to electrode strings
+A	F01
+B	F02
+Inf	inf
+# cabling map
+el	A	B	Inf
+0	0	0	0	
+1	1	2	0
+2	3	4	0
+3	5	6	0
+4	7	8	0
+5	9	10	0
+6	11	12	0
